@@ -1,0 +1,6 @@
+{
+  "name": "Multithreaded Task Scheduler Simulator",
+  "description": "An Operating Systems mini project demonstrating a thread pool executing tasks from a shared queue, comparing FCFS, Round Robin, and Priority scheduling policies with live Gantt charts and mutex synchronization visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
